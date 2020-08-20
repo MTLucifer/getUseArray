@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a89dc54-b9e8-4f44-a4f1-4492bd47a3c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/carosimple.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carosimple.html" beforeDir="false" afterPath="$PROJECT_DIR$/carosimple.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597826649421</updated>
       <workItem from="1597826650461" duration="7096000" />
-      <workItem from="1597885631682" duration="1759000" />
+      <workItem from="1597885631682" duration="2565000" />
     </task>
     <servers />
   </component>
