@@ -26,7 +26,7 @@
     b.innerHTML = data;
 
     function markX() {
-        let positionX = prompt("X: ");
+        let positionX = prompt("Cột: ");
         let positionY = prompt("Y: ");
         data = "";
         board[positionX][positionY] = "x";
@@ -40,8 +40,8 @@
         b.innerHTML = "<hr/>" + data;
     }
     function markO() {
-        let positionX = prompt("X: ");
-        let positionY = prompt("Y: ");
+        let positionX = prompt("Cột: ");
+        let positionY = prompt("Dòng: ");
         data = "";
         board[positionX][positionY] = "o";
         for (let i = 0; i < 5; i++) {

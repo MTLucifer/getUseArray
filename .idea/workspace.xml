@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a89dc54-b9e8-4f44-a4f1-4492bd47a3c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/UpperLower.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addSymbolToString.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkElementInArray.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carosimple.html" beforeDir="false" afterPath="$PROJECT_DIR$/carosimple.html" afterDir="false" />
     </list>
@@ -37,6 +40,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+    </hideBySeverity>
   </component>
   <component name="ProjectId" id="1gJJEP0wNHzBT5Vq30g8iM6Lmzt" />
   <component name="ProjectViewState">
@@ -59,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597826649421</updated>
       <workItem from="1597826650461" duration="7096000" />
-      <workItem from="1597885631682" duration="2565000" />
+      <workItem from="1597885631682" duration="12323000" />
     </task>
     <servers />
   </component>
